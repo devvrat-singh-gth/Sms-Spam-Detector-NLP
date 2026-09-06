@@ -74,7 +74,7 @@ The input dataset (`spam.csv`) contains two baseline data vectors:
 ## 📁 Repository Structure
 
 ```text
-NLP Project/
+sms-spam-detection/
 ├── spam.csv              # Source SMS Dataset
 ├── main.ipynb            # Interactive Cell-by-Cell Pipeline Notebook
 └── README.md             # Project Performance & Structural Log
